@@ -1,4 +1,4 @@
-# Wireshark-PCAP-Threat-Detector
+# Wireshark-PCAP-Threat-Detector ![Status](https://img.shields.io/badge/Status-In_Progress-yellow) ![Version](https://img.shields.io/badge/Version-v0.1_WIP-orange)
 
 # Network Traffic & PCAP Threat Detector
 
